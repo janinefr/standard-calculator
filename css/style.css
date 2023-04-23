@@ -68,7 +68,7 @@ body{
     overflow: hidden;
 }
 
-.user-input > .previous-operand{
+.user-input > .data-previous-operand{
     font-size: 15px;
 }
 
